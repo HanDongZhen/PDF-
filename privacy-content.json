@@ -1,0 +1,68 @@
+{
+  "updated": "2026-10-05",
+  "developer": "Mr Han",
+  "email": "2683326280@qq.com",
+  "applicationId": "com.jiami.code",
+  "sections": [
+    {
+      "titleZh": "适用范围与联系",
+      "titleEn": "Scope and contact",
+      "bodyZh": "本政策适用于 Mr Han 开发的 PDF工具（PDF Tools，应用标识 com.jiami.code）及其隐私政策网页。更新及生效日期：2026 年 10 月 5 日。隐私问题、个人信息相关请求或建议，请联系 2683326280@qq.com。我们会在收到邮件后 15 个工作日内回复。",
+      "bodyEn": "This policy applies to PDF Tools (PDF工具, application ID com.jiami.code), developed by Mr Han, and its privacy-policy website. Updated and effective: October 5, 2026. For privacy questions, personal-information requests or suggestions, contact 2683326280@qq.com. We will respond within 15 working days of receiving your email."
+    },
+    {
+      "titleZh": "文件在本机处理",
+      "titleEn": "Files are processed on your device",
+      "bodyZh": "仅在您通过系统文件选择器主动选择文件后，应用才读取所选 PDF、DOCX 或图片，并将其复制到应用私有缓存，用于预览、编辑、转换及本地文字识别。应用不会扫描整个存储空间，不会将文档、图片、识别文字或密码上传给开发者。不提供账户、云端文档处理或自动同步。操作生成新文件，原文件保持不变。",
+      "bodyEn": "The app reads only PDFs, DOCX documents or images you explicitly select through the system file picker. It copies them into its private cache for previewing, editing, conversion and on-device text recognition. It does not scan your entire storage or upload documents, images, recognized text or passwords to the developer. There are no accounts, cloud document processing or automatic synchronization. Operations create new files and leave your originals unchanged."
+    },
+    {
+      "titleZh": "本地记录与保存期限",
+      "titleEn": "Local records and retention",
+      "bodyZh": "最近记录在本机保存文件 URI、名称、大小、页数、操作时间及是否为输出文件，最多 50 条，用于再次打开。收藏、语言、外观、图片格式、质量及降低动态选项保存在本机设置中。临时缓存会在工作会话结束或下次启动时清理；异常退出后的残留将在下次启动清理。生成的文件保存在应用私有目录，保留至您清除应用数据或卸载。应用关闭了系统应用数据备份与恢复。需要长期保留的输出，请通过“另存为”或“保存到相册”存到外部。",
+      "bodyEn": "Up to 50 recent records are stored on your device to reopen files: file URI, name, size, page count, operation time and whether the file is an output. Favorites, language, appearance, image format, quality and reduced-motion preferences are stored locally. Temporary cache is cleared at the end of a work session or on the next launch; residue after an abnormal exit is cleared on the next launch. Generated files remain in the app’s private directory until you clear app data or uninstall it. System backup and restoration of app data are disabled. Use Save As or Save to Photos to retain outputs outside the app."
+    },
+    {
+      "titleZh": "密码与兼容信息",
+      "titleEn": "Passwords and compatibility information",
+      "bodyZh": "打开文件的密码和新设置的加密密码只在当前处理会话内存中使用，不保存到最近记录、偏好设置或应用日志，退出工作区时清除。应用检查系统 API 能力与应用版本，用于兼容判断和关于页展示，不读取广告标识、联系人、位置或设备序列号。",
+      "bodyEn": "Passwords used to open files and new encryption passwords are used only in memory during the current processing session. They are not saved in recent records, preferences or app logs and are cleared when you leave the workspace. The app checks system API capabilities and its version for compatibility and the About screen. It does not read advertising identifiers, contacts, location or your device serial number."
+    },
+    {
+      "titleZh": "权限与相册保存",
+      "titleEn": "Permissions and saving to Photos",
+      "bodyZh": "文件访问由系统文件选择器授权，仅访问您选择的文件。“保存到相册”仅在您主动点击并同意系统保存确认框后，将输出图片写入系统创建并授权的相册 URI；不读取已有相册图片，不申请相册全库读写权限。PRINT（ohos.permission.PRINT）仅用于您发起的系统打印；VIBRATE（ohos.permission.VIBRATE）用于完成操作或选择页面时的轻触反馈，启用降低动态后关闭触感。应用未申请互联网、相机、麦克风、位置、联系人或全盘文件读取权限。您可取消选择或保存；非必要系统服务不影响基础文档处理。",
+      "bodyEn": "Access is granted by the system file picker and limited to files you choose. Save to Photos writes output images only after you request it and accept the system confirmation, using album URIs created and authorized by the system. It does not read existing photos or request full photo-library access. PRINT (ohos.permission.PRINT) is used for printing you initiate. VIBRATE (ohos.permission.VIBRATE) provides light feedback after operations or page selection; reduced motion disables it. The app requests no Internet, camera, microphone, location, contacts or unrestricted file-reading permission. You can cancel selection or saving; optional system services do not block basic document processing."
+    },
+    {
+      "titleZh": "分享、打印与系统组件",
+      "titleEn": "Sharing, printing and system components",
+      "bodyZh": "您主动使用分享或打印并在系统面板选择接收方后，系统才将相应文件交给您选择的服务。接收方依其自身隐私政策处理文件。本应用使用 HarmonyOS 官方 PDF Kit、Core Vision Kit，以及系统文件、图片、绘图、打印、分享、偏好和振动能力；未集成广告、用户行为分析、云端识别或第三方 PDF 引擎 SDK。",
+      "bodyEn": "When you initiate sharing or printing and choose a recipient in the system panel, the system passes the relevant file to your chosen service. Recipients process files under their own privacy policies. The app uses official HarmonyOS PDF Kit, Core Vision Kit and system file, image, drawing, printing, sharing, preference and vibration capabilities. It includes no advertising, behavioral analytics, cloud-recognition or third-party PDF-engine SDK."
+    },
+    {
+      "titleZh": "您的控制与删除",
+      "titleEn": "Your control and deletion",
+      "bodyZh": "您可以取消文件选择、取消处理、移除最近记录、更改收藏和设置，并通过系统设置清除应用数据或卸载，以删除本机应用记录、缓存及私有输出。移除最近记录不会删除原文件或输出文件；外部另存、相册保存或分享的文件需在相应位置自行删除。开发者没有访问您本机文档的接口。邮件联系是自愿行为，邮件地址和您提供的内容用于处理咨询；事项办结后不再用于其他目的。请勿发送敏感文档或密码。",
+      "bodyEn": "You can cancel file selection or processing, remove recent records, change favorites and settings, and clear app data or uninstall through system settings to delete local app records, cache and private outputs. Removing a recent record does not delete original or generated files. Files saved externally, saved to Photos or shared must be deleted from their respective locations. The developer has no interface for accessing documents on your device. Email contact is voluntary; your email address and supplied content are used to resolve your inquiry and are not used for other purposes after resolution. Please do not send sensitive documents or passwords."
+    },
+    {
+      "titleZh": "儿童、保护与政策更新",
+      "titleEn": "Children, safeguards and updates",
+      "bodyZh": "应用面向一般文档处理，不提供社交、广告或儿童画像功能。未成年人请在监护人指导下使用与分享文档。应用私有文件采用系统沙箱隔离，不提供开发者远程访问。请设置设备锁屏并妥善保管密码。本政策会随实际功能及数据处理方式的变化更新；新增个人信息收集或用途时，将在相关操作前告知并取得必要授权。",
+      "bodyEn": "The app is a general document-processing utility and has no social, advertising or child-profiling features. Minors should use it and share documents under guardian guidance. Private app files are isolated by the system sandbox, with no developer remote access. Please secure your device with a screen lock and protect passwords. This policy will be updated when actual functionality or data processing changes. Any new personal-information collection or purpose will be explained before the relevant operation and necessary authorization obtained."
+    },
+    {
+      "titleZh": "应用市场与发布",
+      "titleEn": "AppGallery and publication",
+      "bodyZh": "通过华为应用市场下载、更新和评分时，应用市场依其政策独立处理相关信息。应用内评分按钮仅打开应用市场，不向开发者发送评分信息。本政策描述目前版本的实际行为，作为上架版本的隐私政策正文。开发版本尚未上架时，可能没有市场详情页；是否上架及版本号以应用市场实际信息为准。",
+      "bodyEn": "Huawei AppGallery independently processes information under its policies when you download, update or rate the app. The in-app rating button only opens AppGallery and sends no rating information to the developer. This policy describes the current version’s actual behavior and serves as the privacy-policy text for publication. An unpublished development version may not yet have a store page. Publication status and version numbers are subject to the actual AppGallery listing."
+    },
+    {
+      "titleZh": "隐私网页与托管服务",
+      "titleEn": "Privacy website and hosting",
+      "bodyZh": "隐私网页为静态页面，计划由 GitHub 保存公开网页源码，并通过 Cloudflare Pages 提供访问。本页未设置广告、访问分析、上传表单、自有 Cookie 或浏览器本地存储；所有页面资源随网站提供，不加载第三方字体或统计脚本。访问网页时，托管服务可能为传输、安全和运行处理 IP 地址、请求时间、浏览器及 HTTP 请求信息，具体以服务商隐私政策为准。这种网页连接不涉及应用内的文档、图片或密码。访问服务商网站时，其自身政策适用。不要在仓库或部署配置中加入用户文件、签名证书或密钥。",
+      "bodyEn": "This is a static privacy website, intended to store its public source on GitHub and serve it through Cloudflare Pages. The page has no advertising, analytics, upload forms, first-party cookies or browser local storage. All assets are served with the site; no third-party fonts or analytics scripts are loaded. Hosting providers may process IP addresses, request times, browser details and HTTP request information for delivery, security and operation, subject to their privacy policies. These website connections do not include the app’s documents, images or passwords. Provider websites are governed by their own policies. User files, signing certificates and keys must not be added to the repository or deployment configuration."
+    }
+  ]
+}
