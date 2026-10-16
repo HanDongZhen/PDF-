@@ -1,14 +1,14 @@
 {
-  "updated": "2026-10-05",
-  "developer": "Mr Han",
+  "updated": "2026-10-16",
+  "developer": "谢婷",
   "email": "2683326280@qq.com",
   "applicationId": "com.jiami.code",
   "sections": [
     {
       "titleZh": "适用范围与联系",
       "titleEn": "Scope and contact",
-      "bodyZh": "本政策适用于 Mr Han 开发的 PDF工具（PDF Tools，应用标识 com.jiami.code）及其隐私政策网页。更新及生效日期：2026 年 10 月 5 日。隐私问题、个人信息相关请求或建议，请联系 2683326280@qq.com。我们会在收到邮件后 15 个工作日内回复。",
-      "bodyEn": "This policy applies to PDF Tools (PDF工具, application ID com.jiami.code), developed by Mr Han, and its privacy-policy website. Updated and effective: October 5, 2026. For privacy questions, personal-information requests or suggestions, contact 2683326280@qq.com. We will respond within 15 working days of receiving your email."
+      "bodyZh": "本政策适用于 谢婷 开发的 简页PDF工具（Jianye PDF Tools，应用标识 com.jiami.code）及其隐私政策网页。更新及生效日期：2026 年 10 月 16 日。隐私问题、个人信息相关请求或建议，请联系 2683326280@qq.com。我们会在收到邮件后 15 个工作日内回复。",
+      "bodyEn": "This policy applies to Jianye PDF Tools (简页PDF工具, application ID com.jiami.code), developed by 谢婷, and its privacy-policy website. Updated and effective: October 16, 2026. For privacy questions, personal-information requests or suggestions, contact 2683326280@qq.com. We will respond within 15 working days of receiving your email."
     },
     {
       "titleZh": "文件在本机处理",
@@ -63,6 +63,12 @@
       "titleEn": "Privacy website and hosting",
       "bodyZh": "隐私网页为静态页面，计划由 GitHub 保存公开网页源码，并通过 Cloudflare Pages 提供访问。本页未设置广告、访问分析、上传表单、自有 Cookie 或浏览器本地存储；所有页面资源随网站提供，不加载第三方字体或统计脚本。访问网页时，托管服务可能为传输、安全和运行处理 IP 地址、请求时间、浏览器及 HTTP 请求信息，具体以服务商隐私政策为准。这种网页连接不涉及应用内的文档、图片或密码。访问服务商网站时，其自身政策适用。不要在仓库或部署配置中加入用户文件、签名证书或密钥。",
       "bodyEn": "This is a static privacy website, intended to store its public source on GitHub and serve it through Cloudflare Pages. The page has no advertising, analytics, upload forms, first-party cookies or browser local storage. All assets are served with the site; no third-party fonts or analytics scripts are loaded. Hosting providers may process IP addresses, request times, browser details and HTTP request information for delivery, security and operation, subject to their privacy policies. These website connections do not include the app’s documents, images or passwords. Provider websites are governed by their own policies. User files, signing certificates and keys must not be added to the repository or deployment configuration."
+    },
+    {
+      "titleZh": "首次启动与隐私选择",
+      "titleEn": "First launch and privacy choices",
+      "bodyZh": "首次启动或隐私政策版本更新后，应用会先提示您阅读隐私政策。您可在提示中打开完整正文；选择同意并继续后，才进入文档工作区并初始化文档缓存和最近记录。选择不同意并退出将退出应用，不记录同意。您的同意政策版本仅保存在本机设置中，可通过系统清除应用数据删除；下次启动将再次提示。提示前仅读取显示外观、语言与隐私选择所需的本机设置，不读取您的文档或相册。您也可在应用内隐私政策页选择重新确认隐私选择，此操作不会删除文档、最近记录或输出文件。",
+      "bodyEn": "On first launch or after a policy-version update, the app prompts you to read the Privacy Policy and provides access to its full text. The document workspace, document cache and recent records are initialized only after you choose Agree and continue. Decline and exit closes the app without recording consent. The policy version you accept is stored only in local settings. Clearing app data removes this record and prompts you again on the next launch. Before this choice, only local settings needed for appearance, language and privacy-choice display are read; your documents and photo library are not accessed. You may also review your privacy choice from the in-app Privacy Policy page; this does not delete documents, recent records or output files."
     }
   ]
 }
